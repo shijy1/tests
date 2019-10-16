@@ -2,4 +2,4 @@
 
 目录：
 
-	1.放大镜：http://www.ishijiyi.com//tests/magnifier.html
+	1.放大镜： http://www.ishijiyi.com//tests/magnifier.html
